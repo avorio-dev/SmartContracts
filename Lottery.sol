@@ -1,3 +1,4 @@
+// SPDX-License-Identifier: unlicensed
 pragma solidity ^0.8.9;
 
 contract Lottery{
